@@ -22,17 +22,6 @@ Over 30% of crop yield in India is lost annually due to plant diseases. Traditio
 
 ---
 
-## 🦠 Sample Plant Disease Detection
-
-<p align="center">
-  <img src="D:\plant disease\assets/AppleScab3.jpg" alt="Tomato Blight Disease" width="500"/>
-</p>
-
-<p align="center">
-  <em>Example: Tomato leaf affected by Late Blight</em>
-</p>
-
-
 
 ## 🛠️ Technologies Used
 
