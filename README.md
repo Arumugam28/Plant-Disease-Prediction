@@ -41,3 +41,40 @@ Over 30% of crop yield in India is lost annually due to plant diseases. Traditio
 
 ---
 
+## 📸 System Architecture
+
+[Camera] → [CNN Model] → [Disease Detection]
+↓ ↓
+[Soil Sensor] [Alert System]
+↓ ↓
+[Raspberry Pi] ←→ [Motor Driver] → Rover
+↓
+[Dashboard UI]
+
+
+
+🚜 Future Enhancements
+Drone integration for aerial crop health monitoring
+
+Fertilizer and pesticide automation
+
+Predictive analytics using weather and sensor data
+
+Advanced weed detection system
+
+👨‍💻 Author
+Arumugam B
+AI/ML Engineer | IOT Enthusiast
+LinkedIn    -  https://www.linkedin.com/in/arumugam-b-760090255
+Portfolio   -  https://arumugam-portfolio.vercel.app
+Emai        -  arumugajai447@gmail.com
+
+## 📊 Live Dashboard (Local Access)
+
+[🔗 Open Plant Disease Detection Dashboard](http://192.168.237.126:8501)
+
+> ⚠️ *Note: This is a local IP address and will only work within the same network.*
+
+
+
+
